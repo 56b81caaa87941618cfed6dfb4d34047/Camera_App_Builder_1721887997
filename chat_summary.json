@@ -36,5 +36,11 @@
         "content": "change  the background color to red and blue mix",
         "timestamp": "25072024072115",
         "message_id": "guest25072024072113"
+    },
+    {
+        "role": "chat_acknowledge",
+        "content": "Working on changing the background color to red and blue mix.",
+        "timestamp": "25072024072115",
+        "message_id": "guest25072024072113"
     }
 ]
