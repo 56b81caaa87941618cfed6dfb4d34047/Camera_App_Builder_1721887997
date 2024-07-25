@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_acknowledge",
+        "content": "Working on changing the background color to red and blue mix.",
+        "message_id": "guest25072024072113",
+        "timestamp": "25072024072115",
+        "component_file_name": "",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "user",
         "content": "change  the background color to red and blue mix",
         "message_id": "guest25072024072113",
