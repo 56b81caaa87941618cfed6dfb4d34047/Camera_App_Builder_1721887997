@@ -18,5 +18,11 @@
         "content": "Got it, adding a button with \"Free\" text.",
         "timestamp": "25072024072045",
         "message_id": "guest25072024072044"
+    },
+    {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Where would you like the 'Free' button to be positioned within the app?\", \"option1\": \"On the main screen, visible upon app launch\", \"option2\": \"Within a specific section or page of the app\"}, {\"question 2\": \"What action should occur when the 'Free' button is clicked?\", \"option1\": \"Open a new page with more information\", \"option2\": \"Display a pop-up message or modal with details\"}], \"input_token_count\": 258, \"output_token_count\": 107, \"time_taken\": \"0:00:08.905425\"}",
+        "timestamp": "25072024072054",
+        "message_id": "guest25072024072044"
     }
 ]
