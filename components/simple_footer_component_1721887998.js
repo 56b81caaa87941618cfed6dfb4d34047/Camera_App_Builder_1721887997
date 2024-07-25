@@ -20,7 +20,7 @@ Vue.component("simple_footer_component_1721887998", {
                     </div>
                 </div>
                 <div class="flex justify-center mt-4">
-                    <button class="bg-purple-500 hover:bg-purple-600 text-white font-bold py-2 px-4 rounded transition duration-300 ease-in-out transform hover:scale-105">
+                    <button class="bg-gradient-to-r from-red-500 to-blue-500 hover:from-red-600 hover:to-blue-600 text-white font-bold py-2 px-4 rounded transition duration-300 ease-in-out transform hover:scale-105">
                         Free
                     </button>
                 </div>
