@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Do you prefer a gradient mix for the background where red and blue smoothly transition, or a solid mix creating a new color?\", \"option1\": \"Gradient transition\", \"option2\": \"Solid new color mix\"}, {\"question 2\": \"Should this color change apply to the entire app background or only specific sections/pages?\", \"option1\": \"Entire app background\", \"option2\": \"Specific sections/pages\"}], \"input_token_count\": 323, \"output_token_count\": 98, \"time_taken\": \"0:00:03.365829\"}",
+        "message_id": "guest25072024072113",
+        "timestamp": "25072024072119",
+        "component_file_name": "simple_footer_component_1721887998",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_acknowledge",
         "content": "Working on changing the background color to red and blue mix.",
         "message_id": "guest25072024072113",
