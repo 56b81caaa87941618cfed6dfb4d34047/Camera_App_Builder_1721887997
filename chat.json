@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_ui_checklist",
+        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Toggle between front and back camera\", \"checked\": true}, {\"feature\": \"Shutter button with animation\", \"checked\": true}, {\"feature\": \"Button to switch flash mode (auto, on, off)\", \"checked\": true}, {\"feature\": \"Zoom in/out slider\", \"checked\": false}, {\"feature\": \"Capture button with haptic feedback\", \"checked\": false}, {\"feature\": \"Gallery button to view recent captures\", \"checked\": false}], \"input_token_count\": 209, \"output_token_count\": 99, \"time_taken\": \"0:00:05.085059\"}",
+        "message_id": "guest25072024074749",
+        "timestamp": "25072024074757",
+        "component_file_name": "simple_footer_component_1721887998",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_qna",
         "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Where in the app do you want the new button to be added?\", \"option1\": \"On the main screen\", \"option2\": \"Inside the camera settings menu\"}, {\"question 2\": \"What should be the primary function of the button?\", \"option1\": \"To start/stop camera capture\", \"option2\": \"To toggle between camera modes\"}], \"input_token_count\": 255, \"output_token_count\": 88, \"time_taken\": \"0:00:04.649848\"}",
         "message_id": "guest25072024074749",
