@@ -16,7 +16,14 @@ Vue.component("simple_footer_component_1721887998", {
                 <div class="flex">
                     <div id="footer-text" class="flex-1 block text-sm text-center text-gray-500 dark:text-gray-400">
                         Unlock your creativity with PixelPerfect. Our cutting-edge app empowers photographers and videographers to capture stunning visuals effortlessly. Join our community of artists today and elevate your craft to new heights.
+                        Unlock your creativity with PixelPerfect. Our cutting-edge app empowers photographers and videographers to capture stunning visuals effortlessly. Join our community of artists today and elevate your craft to new heights.
                     </div>
+                </div>
+                <div class="flex justify-center mt-4">
+                    <button class="bg-blue-500 hover:bg-blue-600 text-white font-bold py-2 px-4 rounded">
+                        Free
+                    </button>
+                </div>
                 </div>
             </div>
         </footer> 
