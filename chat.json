@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_acknowledge",
+        "content": "Got it, adding a button with \"Free\" text.",
+        "message_id": "guest25072024072044",
+        "timestamp": "25072024072045",
+        "component_file_name": "",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "user",
         "content": "add a button with text Free",
         "message_id": "guest25072024072044",
