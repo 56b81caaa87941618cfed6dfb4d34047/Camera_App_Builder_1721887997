@@ -8,6 +8,11 @@ Vue.component("simple_footer_component_1721887998", {
                 Click me
             </button>
         </div>
+        <div class="flex-1">
+            <button class="bg-purple-600 hover:bg-purple-700 text-white font-bold py-2 px-4 rounded transition duration-300 ease-in-out">
+                New Button
+            </button>
+        </div>
     </footer> 
     `,
     data() {
